@@ -20,6 +20,7 @@
 * Paddy
 
 * Tobacco
+
 ![Chillies](https://upload.wikimedia.org/wikipedia/en/f/f6/Andhra_Chillies.jpg)
 
 ![Cotton](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG)
