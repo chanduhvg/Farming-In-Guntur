@@ -33,6 +33,7 @@ Guntur is the biggest chillies trading market in Asia.Farmers in guntur cultivat
 ![Chillies](https://www.swadesi.com/news/wp-content/uploads/2017/07/c5-3.jpg)
 
 (Image Provided by https://www.swadesi.com/news/wp-content/uploads/2017/07/c5-3.jpg)
+
 [Click here for history of chillies](https://en.wikipedia.org/wiki/Guntur_chilli)
 
 **Cotton**
