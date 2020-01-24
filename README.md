@@ -44,6 +44,7 @@ Cotton mainly used for clothes manfacturing and seeds are seperated from the cot
 (Image provided by https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG)
 
 [Click here for history of cotton](https://en.wikipedia.org/wiki/History_of_cotton)
+
 **Paddy**
 
 Rice is one and only food taken by the people on the regular basis so it is one of the popular crop in Guntur
