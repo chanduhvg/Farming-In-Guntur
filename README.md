@@ -51,9 +51,9 @@ Rice is one and only food taken by the people on the regular basis so it is one 
 
 ![Paddy](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg)
 
-[Click here for history of paddy](https://en.wikipedia.org/wiki/Paddy_field)
-
 (Image provided by https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg)
+
+[Click here for history of paddy](https://en.wikipedia.org/wiki/Paddy_field)
 
 **tobacco**
 
