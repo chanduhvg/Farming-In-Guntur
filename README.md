@@ -25,6 +25,6 @@
 
 ![Cotton](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG)
 
-![Paddy](https://c.pxhere.com/images/be/f3/2c74aad16c45bd15cd050624905d-1593885.jpg!d)
+![Paddy](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg)
 
-![Tobacco](https://cdn.the-scientist.com/assets/articleNo/65286/hImg/30159/tobacco-plants-banner-x.jpg)
+![Tobacco](https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicotiana_Tobacco_Plants_1909px.jpg)
