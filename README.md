@@ -42,7 +42,7 @@ Cotton mainly used for clothes manufacturing and seeds are separated from the co
 
 ![Cotton](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG)
 
-((Image provided by [wikipedia] (https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG))
+((Image provided by [wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG))
 
 [Click here for history of cotton](https://en.wikipedia.org/wiki/History_of_cotton)
 
@@ -52,7 +52,7 @@ Rice is one and only food taken by the people on a regular basis so it is one of
 
 ![Paddy](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg)
 
-((Image provided by [wikipedia] (https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg))
+((Image provided by [wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg))
 
 [Click here for history of paddy](https://en.wikipedia.org/wiki/Paddy_field)
 
@@ -62,6 +62,6 @@ Tobacco is one of the prominent crop.To cultivate tobacco farmers need licenses.
 
 ![Tobacco](https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicotiana_Tobacco_Plants_1909px.jpg)
 
-((Image provided by [wikipedia] https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicotiana_Tobacco_Plants_1909px.jpg))
+((Image provided by [wikipedia]https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicotiana_Tobacco_Plants_1909px.jpg))
 
 [Click here for history of tobacco](https://en.wikipedia.org/wiki/History_of_tobacco) 
