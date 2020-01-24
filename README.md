@@ -32,10 +32,13 @@ Guntur is the biggest chillies trading market in Asia.
 ![Chillies](https://upload.wikimedia.org/wikipedia/en/f/f6/Andhra_Chillies.jpg)
 
 ##Cotton
+
 ![Cotton](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/800px-CottonPlant.JPG)
 
 ##Paddy
+
 ![Paddy](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2006_1002_nan_thailand_rice.jpg/220px-2006_1002_nan_thailand_rice.jpg)
 
 ##tobacco
+
 ![Tobacco](https://upload.wikimedia.org/wikipedia/commons/a/ae/Nicotiana_Tobacco_Plants_1909px.jpg)
