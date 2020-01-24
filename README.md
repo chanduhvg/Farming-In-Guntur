@@ -27,6 +27,7 @@ Farming lands in guntur area is commbination of dry land and wet land so guntur 
 * Tobacco
 
 ##Chillies
+
 Guntur is the biggest chillies trading market in Asia.
 
 ![Chillies](https://upload.wikimedia.org/wikipedia/en/f/f6/Andhra_Chillies.jpg)
