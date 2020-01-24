@@ -1,6 +1,6 @@
 # Farming-In-Guntur
 
-Mojority of the people occupation in guntur is farming.Commercial crops like chillies,cotton are suitable for the dry land and Food crops like Paddy and Corn are suitable wet Land.These two kind of crops production is very much happening in guntur.
+Majority of the people occupation in guntur is farming.Commercial crops like chillies,cotton are suitable for the dry land and Food crops like Paddy and Corn are suitable wet Land.These two kind of crops production is very much happening in guntur.
 ## List Of Farming Crops
 
 *Farming lands in guntur area is a combination of dry land and wet land so guntur farmers are more concentrated on these crops.*
