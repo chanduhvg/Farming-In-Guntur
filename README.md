@@ -30,9 +30,9 @@ Farming lands in guntur area is commbination of dry land and wet land so guntur 
 
 Guntur is the biggest chillies trading market in Asia.Farmers in guntur cultivated various kind of chillies such teja
 
-![Chillies](https://storage.googleapis.com/picxystatic/cache/2019/2/20/34a0c69285e49157c5005f040ef14437.jpg)
+![Chillies](https://www.swadesi.com/news/wp-content/uploads/2017/07/c5-3.jpg)
 
-(Image Provided by https://storage.googleapis.com/picxystatic/cache/2019/2/20/34a0c69285e49157c5005f040ef14437.jpg)
+(Image Provided by https://www.swadesi.com/news/wp-content/uploads/2017/07/c5-3.jpg)
 
 **Cotton**
 
