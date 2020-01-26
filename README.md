@@ -36,11 +36,11 @@ Majority of the people occupation in guntur is farming.Commercial crops like chi
 * Tobacco
 
 ## Popular Wet Land Farming Crops
-*Paddy
+* Paddy
 
-*peanuts
+* peanuts
 
-*Sugarcane
+* Sugarcane
 
 **Chillies**
 
