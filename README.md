@@ -6,20 +6,30 @@ Majority of the people occupation in guntur is farming.Commercial crops like chi
 *Farming lands in guntur area is a combination of dry land and wet land so guntur farmers are more concentrated on these crops.*
 ## Dry land crops
 1.Chillies
+
 2.Tobacco
+
 3.Cotton
+
 ## Wet land Crops
 1.Paddy
+
 2.corn
+
 3.Tomatoes
 
 ## Popular Dry Land Farming Crops
 * Chillies
+
 * Cotton
+
 * Tobacco
+
 ## Popular Wet Land Farming Crops
 *Paddy
+
 *peanuts
+
 *Potatoes
 
 **Chillies**
